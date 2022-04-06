@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azufre
 - 👀 I’m interested in developing software using open-source technologies.
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on an open source project
 - 📫 How to reach me robertouraccan@gmail.com
 
